@@ -1,3 +1,0 @@
-machine hub.example.com
-  login swift
-  password password
